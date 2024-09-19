@@ -9,5 +9,6 @@
     This line is added in main
     THis line is added in branch1
     This line is added in branch2
+    New update is added in branch2
 </body>
 </html>
